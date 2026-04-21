@@ -1,4 +1,4 @@
-# Ciphersuite MCP - Criptografia sem frescura no VS Code
+# Ciphersuite MCP - Criptografia no VS Code
 
 Fiz esse servidor [MCP (Model Context Protocol)](https://modelcontextprotocol.io) pra testar a criacao de um mcp que trabalha com criptografia AES-256-CBC. A ideia é simples: encriptar e decriptar coisas direto pelo Copilot Chat do VS Code, sem precisar de site externo ou ficar caçando comando no terminal.
 
